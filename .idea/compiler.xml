@@ -9,8 +9,7 @@
         <module name="MP05UF2P2(Repetir)" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="MP05UF2P2" target="8" />
+    <bytecodeTargetLevel target="15">
       <module name="MP05UF2P2(Repetir)" target="15" />
     </bytecodeTargetLevel>
   </component>
